@@ -26,6 +26,6 @@ RA-10
 | William Rusli           | 120140090 | Programmer                    | [ShortOyster](https://github.com/ShorterOyster)           |
 | Rahman Pajri            | 120140118 | Programmer                    | [Rahman Pajri](https://github.com/rahmanfajri)            |
 | M Fikri Damar M         | 120140077 | Designer                      | [Fikri Damar](https://github.com/fikdum)                  |
-| Anisa Prasetya          | 120140087 | Designer                      | -                                                         |
+| Anisa Prasetya          | 120140087 | Designer                      | [Anisa Prstya](https://github.com/anisaprsty)             |
 | Alfian kafilah Ba'its   | 120140109 | Designer                      | [alfiannas](https://github.com/alfiannnas)                |
 
